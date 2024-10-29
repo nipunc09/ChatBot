@@ -1,1 +1,1 @@
-# ChatBot
+This is a simple chatbot web application built using Flask and Microsoft’s DialoGPT model. The app generates responses based on user input, leveraging the capabilities of a pretrained transformer model.
